@@ -16,6 +16,7 @@ Scipts related to the construction of the questionnaire for the use of Open Tech
 
 <dl>
   <dt>Δυνατότητες </dt>
+  
 1. Αποστολή ειδοποίησης συμπλήρωσης ερωτηματολγίου με email 
 2. Αποστολή mail στο mail του συμμετέχοντα με τα στοιχεία που συμπλήρωσε
 3. Δυνατότηtα συγκεντρωσης στοιχείων σε csv
