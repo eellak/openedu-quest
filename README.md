@@ -1,9 +1,9 @@
 # openedu-quest
-Open Technologies in Greek Universities questionnaire 
+Open Technologies questionnaire for the Greek research and academic community  
 
-Scipts related to the construction of the questionnaire for the use of Open Technologies in the Greek Universities.
+Scipts related to the implementation of the questionnaire for the use of Open Technologies in the Greek Universities.
 
-Τα scripts δημιουργήθηκαν για την κατασκευη ερωτηματολογίου για την καταγραφή της χρηήσης ανοιχτών τεχνολογιών, ανοιχτου περιεχομένου στα ιρύματα της τριτοβάθμιας εκπάιδευσης στην Ελλάδα.
+Τα scripts δημιουργήθηκαν για την κατασκευη ερωτηματολογίου για την καταγραφή της χρήσης ανοιχτών τεχνολογιών και ανοιχτού περιεχομένου στα ιρύματα της τριτοβάθμιας εκπαίδευσης στην Ελλάδα.
 
 <dl>
   <dt> Επιλογές που προσφέρουν τα scripts </dt>
